@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Devl3g  
 
-<!--
-**devl3g/devl3g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🚀 **Systems Engineer & Developer** | 🛡️ **Tech & Privacy Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Systems Engineer & Developer focused on **automation, scalable systems, and privacy-first solutions**.  
+I work across infrastructure, SaaS platforms, and AI-powered automation to deliver robust and user-friendly systems.
+
+## 🛠️ Technical Skills
+**Languages**: Python, JavaScript, SQL, PowerShell, HTML, CSS
+**Frameworks/Tech**: FastAPI, RESTful APIs, AJAX
+**Tools**: Git, Docker, VS Code, Postman
+**CX Platforms**: Zendesk, Salesforce, Five9
+**Project Management**: Jira, Confluence, Agile
+
+## 📌 Featured Projects
+- 🔗 Coming Soon
+
+## 🌐 Connect
+- 🐙 [GitHub](https://github.com/devl3g)
