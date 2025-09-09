@@ -9,9 +9,13 @@ I work across infrastructure, SaaS platforms, and AI-powered automation to deliv
 
 ## 🛠️ Technical Skills
 **Languages**: Python, JavaScript, SQL, PowerShell, HTML, CSS
+
 **Frameworks/Tech**: FastAPI, RESTful APIs, AJAX
+
 **Tools**: Git, Docker, VS Code, Postman
+
 **CX Platforms**: Zendesk, Salesforce, Five9
+
 **Project Management**: Jira, Confluence, Agile
 
 ## 📌 Featured Projects
